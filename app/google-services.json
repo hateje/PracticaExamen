@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489585765933",
+    "project_id": "practicaexamen-bb313",
+    "storage_bucket": "practicaexamen-bb313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489585765933:android:da810abb53c7d2027ed2a4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489585765933-gue5la0619inksnf6fne244dcvf47lim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtcTnpnI0-zRC8T1bwqt786eN4vTGm8S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489585765933-gue5la0619inksnf6fne244dcvf47lim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
